@@ -61,9 +61,8 @@ const forge = {
 
 ## `// Featured`
 
-<!-- Pin your best repos in GitHub settings — they'll appear below this section automatically -->
-
-> Pinned repositories appear on the org page. Head to **Settings → Public profile → Pin repositories** to choose which six to feature.
+* [Forge Mock](https://github.com/fynes-forge/forge-mock)
+* [Forge Themes](https://github.com/fynes-forge/forge-themes)
 
 ---
 
