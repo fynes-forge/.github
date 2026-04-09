@@ -100,9 +100,9 @@ Free, open learning resources — no paywalls, no fluff.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tom--fynes.github.io-B7C3F3?style=flat-square&labelColor=404E5C)](https://tom-fynes.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fynesforge.dev-B7C3F3?style=flat-square&labelColor=404E5C)](https://tom-fynes.github.io)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-tf.dev%40icloud.com-DD7596?style=flat-square&labelColor=404E5C)](mailto:tf.dev@icloud.com)
+[![Email](https://img.shields.io/badge/Email-contact%40fynesforg.dev-DD7596?style=flat-square&labelColor=404E5C)](mailto:tf.dev@icloud.com)
 
 </div>
 
