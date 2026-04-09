@@ -71,9 +71,9 @@ const forge = {
 
 Free, open learning resources — no paywalls, no fluff.
 
-- [`sql-101`](https://fynes-forge.github.io/docs/intro) — SQL from zero to confident
-- [`git-101`](https://fynes-forge.github.io//git_101/intro) — Git workflows that actually make sense  
-- [`python-101`](https://fynes-forge.github.io/python_101/intro) — Python for data engineers
+- [`sql-101`](https://fynesforge.dev/docs/intro) — SQL from zero to confident
+- [`git-101`](https://fynesforge.dev//git_101/intro) — Git workflows that actually make sense  
+- [`python-101`](https://fynesforge.dev/python_101/intro) — Python for data engineers
 
 ---
 
